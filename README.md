@@ -1,4 +1,10 @@
 # Aplikasi Bank Client-Server dengan Java RMI
+oleh:
+1. Bainul Dwi Tri Putra (320220401003)
+2. Fhatur Robby Tanzil Herris (320220401005)
+3. Khaerul Imam Fathoni (320220401014)
+4. Nisrina Labiba Sarwoko (320220401020)
+5. Zerusealtin David Naibaho (320220401025)
 
 ## Pengantar RMI (Remote Method Invocation)
 RMI di Java memungkinkan pemanggilan metode pada objek di JVM lain. Ini sangat berguna untuk aplikasi terdistribusi, seperti aplikasi client-server ini, yang membutuhkan komunikasi antar komponen di jaringan.
