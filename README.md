@@ -177,5 +177,3 @@ public class BankClient {
 - `BankImpl`: Mengimplementasikan logika dari antarmuka Bank, menangani operasi dasar perbankan dengan menyimpan data akun dalam HashMap.
 - `BankServer`: Menjalankan server RMI, membuat objek BankImpl, dan mendaftarkannya ke registry agar dapat diakses oleh klien.
 - `BankClient`: Bertindak sebagai klien yang berinteraksi dengan server RMI, melakukan operasi perbankan seperti memeriksa saldo dan mentransfer dana.
-
-Jika ada bagian yang ingin Anda gali lebih dalam atau jika Anda memiliki pertanyaan lebih lanjut, silakan beri tahu saya!
