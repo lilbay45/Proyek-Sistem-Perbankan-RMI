@@ -1,9 +1,3 @@
-# Proyek-Sistem-Perbankan-RMI
-
-Here’s the updated README.md draft with BankClient as the client file name:
-
----
-
 # Aplikasi Bank Client-Server dengan Java RMI
 
 ## Pengantar RMI (Remote Method Invocation)
